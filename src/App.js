@@ -1,9 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import DigitalClock from './Component/DigitalClock';
 
 function App() {
   return (
     <div className="App">
+      <DigitalClock/>
     </div>
   );
 }
